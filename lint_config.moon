@@ -1,0 +1,38 @@
+{
+  whitelist_globals: {
+    ["spiders.moon"]: {
+     "btn", "btnp",
+     "clip",
+     "cls",
+     "circ", "circb",
+     "elli", "ellib",
+     "exit",
+     "fget", "fset",
+     "font",
+     "key",
+     "keyp",
+     "line",
+     "map",
+     "memcpy",
+     "memset",
+     "mget", "mset",
+     "mouse",
+     "music",
+     "peek", "peek4",
+     "pix",
+     "pmem",
+     "poke", "poke4",
+     "print",
+     "rect", "rectb",
+     "reset",
+     "sfx",
+     "spr",
+     "sync",
+     "time",
+     "tstamp",
+     "trace",
+     "tri", "trib",
+     "textri",
+    }
+  }
+}
